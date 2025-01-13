@@ -52,10 +52,10 @@ RM = "D:\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307
+CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/core_lib.dir/depend.make
@@ -70,198 +70,198 @@ include CMakeFiles/core_lib.dir/flags.make
 
 CMakeFiles/core_lib.dir/Authentication.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/Authentication.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/Authentication.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/Authentication.cpp
+CMakeFiles/core_lib.dir/Authentication.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/Authentication.cpp
 CMakeFiles/core_lib.dir/Authentication.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/core_lib.dir/Authentication.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Authentication.cpp.obj -MF CMakeFiles\core_lib.dir\Authentication.cpp.obj.d -o CMakeFiles\core_lib.dir\Authentication.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\Authentication.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/core_lib.dir/Authentication.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Authentication.cpp.obj -MF CMakeFiles\core_lib.dir\Authentication.cpp.obj.d -o CMakeFiles\core_lib.dir\Authentication.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Authentication.cpp
 
 CMakeFiles/core_lib.dir/Authentication.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/Authentication.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\Authentication.cpp > CMakeFiles\core_lib.dir\Authentication.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Authentication.cpp > CMakeFiles\core_lib.dir\Authentication.cpp.i
 
 CMakeFiles/core_lib.dir/Authentication.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/Authentication.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\Authentication.cpp -o CMakeFiles\core_lib.dir\Authentication.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Authentication.cpp -o CMakeFiles\core_lib.dir\Authentication.cpp.s
 
 CMakeFiles/core_lib.dir/Course.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/Course.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/Course.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/Course.cpp
+CMakeFiles/core_lib.dir/Course.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/Course.cpp
 CMakeFiles/core_lib.dir/Course.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/core_lib.dir/Course.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Course.cpp.obj -MF CMakeFiles\core_lib.dir\Course.cpp.obj.d -o CMakeFiles\core_lib.dir\Course.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\Course.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/core_lib.dir/Course.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Course.cpp.obj -MF CMakeFiles\core_lib.dir\Course.cpp.obj.d -o CMakeFiles\core_lib.dir\Course.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Course.cpp
 
 CMakeFiles/core_lib.dir/Course.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/Course.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\Course.cpp > CMakeFiles\core_lib.dir\Course.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Course.cpp > CMakeFiles\core_lib.dir\Course.cpp.i
 
 CMakeFiles/core_lib.dir/Course.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/Course.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\Course.cpp -o CMakeFiles\core_lib.dir\Course.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Course.cpp -o CMakeFiles\core_lib.dir\Course.cpp.s
 
 CMakeFiles/core_lib.dir/CourseManager.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/CourseManager.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/CourseManager.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/CourseManager.cpp
+CMakeFiles/core_lib.dir/CourseManager.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/CourseManager.cpp
 CMakeFiles/core_lib.dir/CourseManager.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/core_lib.dir/CourseManager.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/CourseManager.cpp.obj -MF CMakeFiles\core_lib.dir\CourseManager.cpp.obj.d -o CMakeFiles\core_lib.dir\CourseManager.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\CourseManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/core_lib.dir/CourseManager.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/CourseManager.cpp.obj -MF CMakeFiles\core_lib.dir\CourseManager.cpp.obj.d -o CMakeFiles\core_lib.dir\CourseManager.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\CourseManager.cpp
 
 CMakeFiles/core_lib.dir/CourseManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/CourseManager.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\CourseManager.cpp > CMakeFiles\core_lib.dir\CourseManager.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\CourseManager.cpp > CMakeFiles\core_lib.dir\CourseManager.cpp.i
 
 CMakeFiles/core_lib.dir/CourseManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/CourseManager.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\CourseManager.cpp -o CMakeFiles\core_lib.dir\CourseManager.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\CourseManager.cpp -o CMakeFiles\core_lib.dir\CourseManager.cpp.s
 
 CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/PrerequisiteChecker.cpp
+CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/PrerequisiteChecker.cpp
 CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj -MF CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.obj.d -o CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\PrerequisiteChecker.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.obj -MF CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.obj.d -o CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\PrerequisiteChecker.cpp
 
 CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\PrerequisiteChecker.cpp > CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\PrerequisiteChecker.cpp > CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.i
 
 CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/PrerequisiteChecker.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\PrerequisiteChecker.cpp -o CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\PrerequisiteChecker.cpp -o CMakeFiles\core_lib.dir\PrerequisiteChecker.cpp.s
 
 CMakeFiles/core_lib.dir/Scheduler.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/Scheduler.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/Scheduler.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/Scheduler.cpp
+CMakeFiles/core_lib.dir/Scheduler.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/Scheduler.cpp
 CMakeFiles/core_lib.dir/Scheduler.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/core_lib.dir/Scheduler.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Scheduler.cpp.obj -MF CMakeFiles\core_lib.dir\Scheduler.cpp.obj.d -o CMakeFiles\core_lib.dir\Scheduler.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\Scheduler.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/core_lib.dir/Scheduler.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Scheduler.cpp.obj -MF CMakeFiles\core_lib.dir\Scheduler.cpp.obj.d -o CMakeFiles\core_lib.dir\Scheduler.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Scheduler.cpp
 
 CMakeFiles/core_lib.dir/Scheduler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/Scheduler.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\Scheduler.cpp > CMakeFiles\core_lib.dir\Scheduler.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Scheduler.cpp > CMakeFiles\core_lib.dir\Scheduler.cpp.i
 
 CMakeFiles/core_lib.dir/Scheduler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/Scheduler.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\Scheduler.cpp -o CMakeFiles\core_lib.dir\Scheduler.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Scheduler.cpp -o CMakeFiles\core_lib.dir\Scheduler.cpp.s
 
 CMakeFiles/core_lib.dir/Student.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/Student.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/Student.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/Student.cpp
+CMakeFiles/core_lib.dir/Student.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/Student.cpp
 CMakeFiles/core_lib.dir/Student.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/core_lib.dir/Student.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Student.cpp.obj -MF CMakeFiles\core_lib.dir\Student.cpp.obj.d -o CMakeFiles\core_lib.dir\Student.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\Student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/core_lib.dir/Student.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/Student.cpp.obj -MF CMakeFiles\core_lib.dir\Student.cpp.obj.d -o CMakeFiles\core_lib.dir\Student.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Student.cpp
 
 CMakeFiles/core_lib.dir/Student.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/Student.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\Student.cpp > CMakeFiles\core_lib.dir\Student.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Student.cpp > CMakeFiles\core_lib.dir\Student.cpp.i
 
 CMakeFiles/core_lib.dir/Student.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/Student.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\Student.cpp -o CMakeFiles\core_lib.dir\Student.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Student.cpp -o CMakeFiles\core_lib.dir\Student.cpp.s
 
 CMakeFiles/core_lib.dir/User.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/User.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/User.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/User.cpp
+CMakeFiles/core_lib.dir/User.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/User.cpp
 CMakeFiles/core_lib.dir/User.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/core_lib.dir/User.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/User.cpp.obj -MF CMakeFiles\core_lib.dir\User.cpp.obj.d -o CMakeFiles\core_lib.dir\User.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\User.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/core_lib.dir/User.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/User.cpp.obj -MF CMakeFiles\core_lib.dir\User.cpp.obj.d -o CMakeFiles\core_lib.dir\User.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\User.cpp
 
 CMakeFiles/core_lib.dir/User.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/User.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\User.cpp > CMakeFiles\core_lib.dir\User.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\User.cpp > CMakeFiles\core_lib.dir\User.cpp.i
 
 CMakeFiles/core_lib.dir/User.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/User.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\User.cpp -o CMakeFiles\core_lib.dir\User.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\User.cpp -o CMakeFiles\core_lib.dir\User.cpp.s
 
 CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/MainMenuInterface.cpp
+CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/MainMenuInterface.cpp
 CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj -MF CMakeFiles\core_lib.dir\MainMenuInterface.cpp.obj.d -o CMakeFiles\core_lib.dir\MainMenuInterface.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\MainMenuInterface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/MainMenuInterface.cpp.obj -MF CMakeFiles\core_lib.dir\MainMenuInterface.cpp.obj.d -o CMakeFiles\core_lib.dir\MainMenuInterface.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\MainMenuInterface.cpp
 
 CMakeFiles/core_lib.dir/MainMenuInterface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/MainMenuInterface.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\MainMenuInterface.cpp > CMakeFiles\core_lib.dir\MainMenuInterface.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\MainMenuInterface.cpp > CMakeFiles\core_lib.dir\MainMenuInterface.cpp.i
 
 CMakeFiles/core_lib.dir/MainMenuInterface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/MainMenuInterface.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\MainMenuInterface.cpp -o CMakeFiles\core_lib.dir\MainMenuInterface.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\MainMenuInterface.cpp -o CMakeFiles\core_lib.dir\MainMenuInterface.cpp.s
 
 CMakeFiles/core_lib.dir/sqlite3.c.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/sqlite3.c.obj: CMakeFiles/core_lib.dir/includes_C.rsp
-CMakeFiles/core_lib.dir/sqlite3.c.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/sqlite3.c
+CMakeFiles/core_lib.dir/sqlite3.c.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/sqlite3.c
 CMakeFiles/core_lib.dir/sqlite3.c.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/core_lib.dir/sqlite3.c.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/core_lib.dir/sqlite3.c.obj -MF CMakeFiles\core_lib.dir\sqlite3.c.obj.d -o CMakeFiles\core_lib.dir\sqlite3.c.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\sqlite3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/core_lib.dir/sqlite3.c.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/core_lib.dir/sqlite3.c.obj -MF CMakeFiles\core_lib.dir\sqlite3.c.obj.d -o CMakeFiles\core_lib.dir\sqlite3.c.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\sqlite3.c
 
 CMakeFiles/core_lib.dir/sqlite3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/core_lib.dir/sqlite3.c.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\sqlite3.c > CMakeFiles\core_lib.dir\sqlite3.c.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\sqlite3.c > CMakeFiles\core_lib.dir\sqlite3.c.i
 
 CMakeFiles/core_lib.dir/sqlite3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/core_lib.dir/sqlite3.c.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\sqlite3.c -o CMakeFiles\core_lib.dir\sqlite3.c.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\sqlite3.c -o CMakeFiles\core_lib.dir\sqlite3.c.s
 
 CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/DatabaseManager.cpp
+CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/DatabaseManager.cpp
 CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj -MF CMakeFiles\core_lib.dir\DatabaseManager.cpp.obj.d -o CMakeFiles\core_lib.dir\DatabaseManager.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\DatabaseManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/DatabaseManager.cpp.obj -MF CMakeFiles\core_lib.dir\DatabaseManager.cpp.obj.d -o CMakeFiles\core_lib.dir\DatabaseManager.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\DatabaseManager.cpp
 
 CMakeFiles/core_lib.dir/DatabaseManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/DatabaseManager.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\DatabaseManager.cpp > CMakeFiles\core_lib.dir\DatabaseManager.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\DatabaseManager.cpp > CMakeFiles\core_lib.dir\DatabaseManager.cpp.i
 
 CMakeFiles/core_lib.dir/DatabaseManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/DatabaseManager.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\DatabaseManager.cpp -o CMakeFiles\core_lib.dir\DatabaseManager.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\DatabaseManager.cpp -o CMakeFiles\core_lib.dir\DatabaseManager.cpp.s
 
 CMakeFiles/core_lib.dir/LoginInterface.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/LoginInterface.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/LoginInterface.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/LoginInterface.cpp
+CMakeFiles/core_lib.dir/LoginInterface.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/LoginInterface.cpp
 CMakeFiles/core_lib.dir/LoginInterface.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/core_lib.dir/LoginInterface.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/LoginInterface.cpp.obj -MF CMakeFiles\core_lib.dir\LoginInterface.cpp.obj.d -o CMakeFiles\core_lib.dir\LoginInterface.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\LoginInterface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/core_lib.dir/LoginInterface.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/LoginInterface.cpp.obj -MF CMakeFiles\core_lib.dir\LoginInterface.cpp.obj.d -o CMakeFiles\core_lib.dir\LoginInterface.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\LoginInterface.cpp
 
 CMakeFiles/core_lib.dir/LoginInterface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/LoginInterface.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\LoginInterface.cpp > CMakeFiles\core_lib.dir\LoginInterface.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\LoginInterface.cpp > CMakeFiles\core_lib.dir\LoginInterface.cpp.i
 
 CMakeFiles/core_lib.dir/LoginInterface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/LoginInterface.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\LoginInterface.cpp -o CMakeFiles\core_lib.dir\LoginInterface.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\LoginInterface.cpp -o CMakeFiles\core_lib.dir\LoginInterface.cpp.s
 
 CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/NotificationInterface.cpp
+CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/NotificationInterface.cpp
 CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj -MF CMakeFiles\core_lib.dir\NotificationInterface.cpp.obj.d -o CMakeFiles\core_lib.dir\NotificationInterface.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\NotificationInterface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj -MF CMakeFiles\core_lib.dir\NotificationInterface.cpp.obj.d -o CMakeFiles\core_lib.dir\NotificationInterface.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\NotificationInterface.cpp
 
 CMakeFiles/core_lib.dir/NotificationInterface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/NotificationInterface.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\NotificationInterface.cpp > CMakeFiles\core_lib.dir\NotificationInterface.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\NotificationInterface.cpp > CMakeFiles\core_lib.dir\NotificationInterface.cpp.i
 
 CMakeFiles/core_lib.dir/NotificationInterface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/NotificationInterface.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\NotificationInterface.cpp -o CMakeFiles\core_lib.dir\NotificationInterface.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\NotificationInterface.cpp -o CMakeFiles\core_lib.dir\NotificationInterface.cpp.s
 
 CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj: CMakeFiles/core_lib.dir/flags.make
 CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj: CMakeFiles/core_lib.dir/includes_CXX.rsp
-CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/EnrollmentManager.cpp
+CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/EnrollmentManager.cpp
 CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj: CMakeFiles/core_lib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj -MF CMakeFiles\core_lib.dir\EnrollmentManager.cpp.obj.d -o CMakeFiles\core_lib.dir\EnrollmentManager.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\EnrollmentManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj -MF CMakeFiles\core_lib.dir\EnrollmentManager.cpp.obj.d -o CMakeFiles\core_lib.dir\EnrollmentManager.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\EnrollmentManager.cpp
 
 CMakeFiles/core_lib.dir/EnrollmentManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core_lib.dir/EnrollmentManager.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\EnrollmentManager.cpp > CMakeFiles\core_lib.dir\EnrollmentManager.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\EnrollmentManager.cpp > CMakeFiles\core_lib.dir\EnrollmentManager.cpp.i
 
 CMakeFiles/core_lib.dir/EnrollmentManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core_lib.dir/EnrollmentManager.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\EnrollmentManager.cpp -o CMakeFiles\core_lib.dir\EnrollmentManager.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\EnrollmentManager.cpp -o CMakeFiles\core_lib.dir\EnrollmentManager.cpp.s
 
 # Object files for target core_lib
 core_lib_OBJECTS = \
@@ -297,7 +297,7 @@ libcore_lib.a: CMakeFiles/core_lib.dir/NotificationInterface.cpp.obj
 libcore_lib.a: CMakeFiles/core_lib.dir/EnrollmentManager.cpp.obj
 libcore_lib.a: CMakeFiles/core_lib.dir/build.make
 libcore_lib.a: CMakeFiles/core_lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX static library libcore_lib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX static library libcore_lib.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\core_lib.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\core_lib.dir\link.txt --verbose=$(VERBOSE)
 
@@ -310,6 +310,6 @@ CMakeFiles/core_lib.dir/clean:
 .PHONY : CMakeFiles/core_lib.dir/clean
 
 CMakeFiles/core_lib.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Alexf\Desktop\3307Projcet\3307 C:\Users\Alexf\Desktop\3307Projcet\3307 C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles\core_lib.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307 C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307 C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles\core_lib.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/core_lib.dir/depend
 

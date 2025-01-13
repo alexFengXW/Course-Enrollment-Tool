@@ -52,10 +52,10 @@ RM = "D:\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307
+CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Project3307_Tests.dir/depend.make
@@ -70,48 +70,48 @@ include CMakeFiles/Project3307_Tests.dir/flags.make
 
 CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj: CMakeFiles/Project3307_Tests.dir/flags.make
 CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj: CMakeFiles/Project3307_Tests.dir/includes_CXX.rsp
-CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/tests/test_main.cpp
+CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/tests/test_main.cpp
 CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj: CMakeFiles/Project3307_Tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj -MF CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.obj.d -o CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\tests\test_main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj -MF CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.obj.d -o CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\test_main.cpp
 
 CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\tests\test_main.cpp > CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\test_main.cpp > CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.i
 
 CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\tests\test_main.cpp -o CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\test_main.cpp -o CMakeFiles\Project3307_Tests.dir\tests\test_main.cpp.s
 
 CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj: CMakeFiles/Project3307_Tests.dir/flags.make
 CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj: CMakeFiles/Project3307_Tests.dir/includes_CXX.rsp
-CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/tests/Authentication_test.cpp
+CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/tests/Authentication_test.cpp
 CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj: CMakeFiles/Project3307_Tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj -MF CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.obj.d -o CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\tests\Authentication_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj -MF CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.obj.d -o CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\Authentication_test.cpp
 
 CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\tests\Authentication_test.cpp > CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\Authentication_test.cpp > CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.i
 
 CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\tests\Authentication_test.cpp -o CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\Authentication_test.cpp -o CMakeFiles\Project3307_Tests.dir\tests\Authentication_test.cpp.s
 
 CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj: CMakeFiles/Project3307_Tests.dir/flags.make
 CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj: CMakeFiles/Project3307_Tests.dir/includes_CXX.rsp
-CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/tests/CourseManager_test.cpp
+CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/tests/CourseManager_test.cpp
 CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj: CMakeFiles/Project3307_Tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj -MF CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.obj.d -o CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\tests\CourseManager_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj -MF CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.obj.d -o CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\CourseManager_test.cpp
 
 CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\tests\CourseManager_test.cpp > CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\CourseManager_test.cpp > CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.i
 
 CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\tests\CourseManager_test.cpp -o CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\tests\CourseManager_test.cpp -o CMakeFiles\Project3307_Tests.dir\tests\CourseManager_test.cpp.s
 
 # Object files for target Project3307_Tests
 Project3307_Tests_OBJECTS = \
@@ -136,10 +136,9 @@ Project3307_Tests.exe: lib/libgtest.a
 Project3307_Tests.exe: CMakeFiles/Project3307_Tests.dir/linkLibs.rsp
 Project3307_Tests.exe: CMakeFiles/Project3307_Tests.dir/objects1.rsp
 Project3307_Tests.exe: CMakeFiles/Project3307_Tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Project3307_Tests.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Project3307_Tests.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Project3307_Tests.dir\link.txt --verbose=$(VERBOSE)
-	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Alexf/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Alexf/Desktop/3307Projcet/3307/cmake-build-debug/Project3307_Tests.exe -installedDir C:/Users/Alexf/.vcpkg-clion/vcpkg/installed/x64-mingw-dynamic/debug/bin -OutVariable out
-	"D:\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -D TEST_TARGET=Project3307_Tests -D TEST_EXECUTABLE=C:/Users/Alexf/Desktop/3307Projcet/3307/cmake-build-debug/Project3307_Tests.exe -D TEST_EXECUTOR= -D TEST_WORKING_DIR=C:/Users/Alexf/Desktop/3307Projcet/3307/cmake-build-debug -D TEST_EXTRA_ARGS= -D TEST_PROPERTIES= -D TEST_PREFIX= -D TEST_SUFFIX= -D TEST_FILTER= -D NO_PRETTY_TYPES=FALSE -D NO_PRETTY_VALUES=FALSE -D TEST_LIST=Project3307_Tests_TESTS -D CTEST_FILE=C:/Users/Alexf/Desktop/3307Projcet/3307/cmake-build-debug/Project3307_Tests[1]_tests.cmake -D TEST_DISCOVERY_TIMEOUT=5 -D TEST_XML_OUTPUT_DIR= -P "D:/CLion 2024.1.4/bin/cmake/win/x64/share/cmake-3.28/Modules/GoogleTestAddTests.cmake"
+	"D:\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -D TEST_TARGET=Project3307_Tests -D TEST_EXECUTABLE=C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/cmake-build-debug/Project3307_Tests.exe -D TEST_EXECUTOR= -D TEST_WORKING_DIR=C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/cmake-build-debug -D TEST_EXTRA_ARGS= -D TEST_PROPERTIES= -D TEST_PREFIX= -D TEST_SUFFIX= -D TEST_FILTER= -D NO_PRETTY_TYPES=FALSE -D NO_PRETTY_VALUES=FALSE -D TEST_LIST=Project3307_Tests_TESTS -D CTEST_FILE=C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/cmake-build-debug/Project3307_Tests[1]_tests.cmake -D TEST_DISCOVERY_TIMEOUT=5 -D TEST_XML_OUTPUT_DIR= -P "D:/CLion 2024.1.4/bin/cmake/win/x64/share/cmake-3.28/Modules/GoogleTestAddTests.cmake"
 
 # Rule to build all files generated by this target.
 CMakeFiles/Project3307_Tests.dir/build: Project3307_Tests.exe
@@ -150,6 +149,6 @@ CMakeFiles/Project3307_Tests.dir/clean:
 .PHONY : CMakeFiles/Project3307_Tests.dir/clean
 
 CMakeFiles/Project3307_Tests.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Alexf\Desktop\3307Projcet\3307 C:\Users\Alexf\Desktop\3307Projcet\3307 C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles\Project3307_Tests.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307 C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307 C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles\Project3307_Tests.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Project3307_Tests.dir/depend
 

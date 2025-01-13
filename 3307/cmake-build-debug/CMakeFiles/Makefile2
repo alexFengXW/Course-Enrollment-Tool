@@ -53,10 +53,10 @@ RM = "D:\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307
+CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -137,14 +137,14 @@ googletest/googletest/clean: googletest/googletest/CMakeFiles/gtest_main.dir/cle
 CMakeFiles/core_lib.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\core_lib.dir\build.make CMakeFiles/core_lib.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\core_lib.dir\build.make CMakeFiles/core_lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=7,8,9,10,11,12,13,14,15,16,17,18,19,20 "Built target core_lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=7,8,9,10,11,12,13,14,15,16,17,18,19,20 "Built target core_lib"
 .PHONY : CMakeFiles/core_lib.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/core_lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 14
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 14
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/core_lib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/core_lib.dir/rule
 
 # Convenience name for target.
@@ -163,14 +163,14 @@ CMakeFiles/core_lib.dir/clean:
 CMakeFiles/Project3307.dir/all: CMakeFiles/core_lib.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Project3307.dir\build.make CMakeFiles/Project3307.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Project3307.dir\build.make CMakeFiles/Project3307.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Project3307"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Project3307"
 .PHONY : CMakeFiles/Project3307.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Project3307.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 16
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Project3307.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Project3307.dir/rule
 
 # Convenience name for target.
@@ -187,20 +187,20 @@ CMakeFiles/Project3307.dir/clean:
 
 # All Build rule for target.
 CMakeFiles/Project3307_Tests.dir/all: CMakeFiles/core_lib.dir/all
-CMakeFiles/Project3307_Tests.dir/all: googletest/googlemock/CMakeFiles/gmock.dir/all
-CMakeFiles/Project3307_Tests.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
 CMakeFiles/Project3307_Tests.dir/all: googletest/googlemock/CMakeFiles/gmock_main.dir/all
+CMakeFiles/Project3307_Tests.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
+CMakeFiles/Project3307_Tests.dir/all: googletest/googlemock/CMakeFiles/gmock.dir/all
 CMakeFiles/Project3307_Tests.dir/all: googletest/googletest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Project3307_Tests.dir\build.make CMakeFiles/Project3307_Tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Project3307_Tests.dir\build.make CMakeFiles/Project3307_Tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=3,4,5,6 "Built target Project3307_Tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=3,4,5,6 "Built target Project3307_Tests"
 .PHONY : CMakeFiles/Project3307_Tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Project3307_Tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 26
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 26
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Project3307_Tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Project3307_Tests.dir/rule
 
 # Convenience name for target.
@@ -219,14 +219,14 @@ CMakeFiles/Project3307_Tests.dir/clean:
 googletest/googlemock/CMakeFiles/gmock.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) $(MAKESILENT) -f googletest\googlemock\CMakeFiles\gmock.dir\build.make googletest/googlemock/CMakeFiles/gmock.dir/depend
 	$(MAKE) $(MAKESILENT) -f googletest\googlemock\CMakeFiles\gmock.dir\build.make googletest/googlemock/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target gmock"
 .PHONY : googletest/googlemock/CMakeFiles/gmock.dir/all
 
 # Build rule for subdir invocation for target.
 googletest/googlemock/CMakeFiles/gmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 googletest/googlemock/CMakeFiles/gmock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : googletest/googlemock/CMakeFiles/gmock.dir/rule
 
 # Convenience name for target.
@@ -242,18 +242,18 @@ googletest/googlemock/CMakeFiles/gmock.dir/clean:
 # Target rules for target googletest/googlemock/CMakeFiles/gmock_main.dir
 
 # All Build rule for target.
-googletest/googlemock/CMakeFiles/gmock_main.dir/all: googletest/googlemock/CMakeFiles/gmock.dir/all
 googletest/googlemock/CMakeFiles/gmock_main.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
+googletest/googlemock/CMakeFiles/gmock_main.dir/all: googletest/googlemock/CMakeFiles/gmock.dir/all
 	$(MAKE) $(MAKESILENT) -f googletest\googlemock\CMakeFiles\gmock_main.dir\build.make googletest/googlemock/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) $(MAKESILENT) -f googletest\googlemock\CMakeFiles\gmock_main.dir\build.make googletest/googlemock/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target gmock_main"
 .PHONY : googletest/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
 googletest/googlemock/CMakeFiles/gmock_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 googletest/googlemock/CMakeFiles/gmock_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : googletest/googlemock/CMakeFiles/gmock_main.dir/rule
 
 # Convenience name for target.
@@ -272,14 +272,14 @@ googletest/googlemock/CMakeFiles/gmock_main.dir/clean:
 googletest/googletest/CMakeFiles/gtest.dir/all:
 	$(MAKE) $(MAKESILENT) -f googletest\googletest\CMakeFiles\gtest.dir\build.make googletest/googletest/CMakeFiles/gtest.dir/depend
 	$(MAKE) $(MAKESILENT) -f googletest\googletest\CMakeFiles\gtest.dir\build.make googletest/googletest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target gtest"
 .PHONY : googletest/googletest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 googletest/googletest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 googletest/googletest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : googletest/googletest/CMakeFiles/gtest.dir/rule
 
 # Convenience name for target.
@@ -298,14 +298,14 @@ googletest/googletest/CMakeFiles/gtest.dir/clean:
 googletest/googletest/CMakeFiles/gtest_main.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) $(MAKESILENT) -f googletest\googletest\CMakeFiles\gtest_main.dir\build.make googletest/googletest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) $(MAKESILENT) -f googletest\googletest\CMakeFiles\gtest_main.dir\build.make googletest/googletest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=27,28 "Built target gtest_main"
 .PHONY : googletest/googletest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 googletest/googletest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 googletest/googletest/CMakeFiles/gtest_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles 0
 .PHONY : googletest/googletest/CMakeFiles/gtest_main.dir/rule
 
 # Convenience name for target.

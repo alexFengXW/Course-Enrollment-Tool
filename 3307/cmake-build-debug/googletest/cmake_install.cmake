@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Alexf/Desktop/3307Projcet/3307/googletest-main
+# Install script for directory: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/googletest-main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Alexf/Desktop/3307Projcet/3307/cmake-build-debug/googletest/googlemock/cmake_install.cmake")
+  include("C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/cmake-build-debug/googletest/googlemock/cmake_install.cmake")
 
 endif()
 

@@ -4,17 +4,16 @@
 The Course Enrollment System is a comprehensive C++ application with a GUI, designed to streamline course scheduling and management. The system provides functionality for students to enroll in courses and administrators to manage course information efficiently. It utilizes the **SFML (Simple and Fast Multimedia Library)** for GUI components and SQLite for database integration.
 
 ---
+## **Preview**
+* Login
 
+---
 ## **Features**
 - **Student Features**:
+  - Login and authentication function
   - Browse and search for available courses.
   - Enroll in courses, ensuring prerequisites are met.
-  - View and manage personal course schedules.
-
-- **Administrator Features**:
-  - Add, update, and delete course information.
-  - View and manage student enrollments.
-  - Access real-time data through database integration.
+    - View and manage personal course schedules.
 
 - **Backend**:
   - Persistent data storage using SQLite.

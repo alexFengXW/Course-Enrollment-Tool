@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Alexf/Desktop/3307Projcet/3307/tests/Authentication_test.cpp" "CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj" "gcc" "CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj.d"
-  "C:/Users/Alexf/Desktop/3307Projcet/3307/tests/CourseManager_test.cpp" "CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj" "gcc" "CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj.d"
-  "C:/Users/Alexf/Desktop/3307Projcet/3307/tests/test_main.cpp" "CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj" "gcc" "CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj.d"
+  "C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/tests/Authentication_test.cpp" "CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj" "gcc" "CMakeFiles/Project3307_Tests.dir/tests/Authentication_test.cpp.obj.d"
+  "C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/tests/CourseManager_test.cpp" "CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj" "gcc" "CMakeFiles/Project3307_Tests.dir/tests/CourseManager_test.cpp.obj.d"
+  "C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/tests/test_main.cpp" "CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj" "gcc" "CMakeFiles/Project3307_Tests.dir/tests/test_main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

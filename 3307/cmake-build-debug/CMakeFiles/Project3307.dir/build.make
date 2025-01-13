@@ -52,10 +52,10 @@ RM = "D:\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307
+CMAKE_SOURCE_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Project3307.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/Project3307.dir/flags.make
 
 CMakeFiles/Project3307.dir/Main.cpp.obj: CMakeFiles/Project3307.dir/flags.make
 CMakeFiles/Project3307.dir/Main.cpp.obj: CMakeFiles/Project3307.dir/includes_CXX.rsp
-CMakeFiles/Project3307.dir/Main.cpp.obj: C:/Users/Alexf/Desktop/3307Projcet/3307/Main.cpp
+CMakeFiles/Project3307.dir/Main.cpp.obj: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/Main.cpp
 CMakeFiles/Project3307.dir/Main.cpp.obj: CMakeFiles/Project3307.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project3307.dir/Main.cpp.obj"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307.dir/Main.cpp.obj -MF CMakeFiles\Project3307.dir\Main.cpp.obj.d -o CMakeFiles\Project3307.dir\Main.cpp.obj -c C:\Users\Alexf\Desktop\3307Projcet\3307\Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Project3307.dir/Main.cpp.obj"
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Project3307.dir/Main.cpp.obj -MF CMakeFiles\Project3307.dir\Main.cpp.obj.d -o CMakeFiles\Project3307.dir\Main.cpp.obj -c C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Main.cpp
 
 CMakeFiles/Project3307.dir/Main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Project3307.dir/Main.cpp.i"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\3307Projcet\3307\Main.cpp > CMakeFiles\Project3307.dir\Main.cpp.i
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Main.cpp > CMakeFiles\Project3307.dir\Main.cpp.i
 
 CMakeFiles/Project3307.dir/Main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Project3307.dir/Main.cpp.s"
-	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\3307Projcet\3307\Main.cpp -o CMakeFiles\Project3307.dir\Main.cpp.s
+	"D:\CLion 2024.1.4\bin\mingw\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\Main.cpp -o CMakeFiles\Project3307.dir\Main.cpp.s
 
 # Object files for target Project3307
 Project3307_OBJECTS = \
@@ -93,17 +93,16 @@ Project3307_EXTERNAL_OBJECTS =
 Project3307.exe: CMakeFiles/Project3307.dir/Main.cpp.obj
 Project3307.exe: CMakeFiles/Project3307.dir/build.make
 Project3307.exe: libcore_lib.a
-Project3307.exe: C:/Users/Alexf/Desktop/3307Projcet/3307/SFML-2.6.2/lib/libsfml-graphics-d.a
-Project3307.exe: C:/Users/Alexf/Desktop/3307Projcet/3307/SFML-2.6.2/lib/libsfml-window-d.a
-Project3307.exe: C:/Users/Alexf/Desktop/3307Projcet/3307/SFML-2.6.2/lib/libsfml-system-d.a
-Project3307.exe: C:/Users/Alexf/Desktop/3307Projcet/3307/SFML-2.6.2/lib/libfreetype.a
-Project3307.exe: C:/Users/Alexf/Desktop/3307Projcet/3307/SFML-2.6.2/lib/libopenal32.a
+Project3307.exe: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/SFML-2.6.2/lib/libsfml-graphics-d.a
+Project3307.exe: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/SFML-2.6.2/lib/libsfml-window-d.a
+Project3307.exe: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/SFML-2.6.2/lib/libsfml-system-d.a
+Project3307.exe: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/SFML-2.6.2/lib/libfreetype.a
+Project3307.exe: C:/Users/Alexf/Desktop/Course-Enrollment-Tool/3307/SFML-2.6.2/lib/libopenal32.a
 Project3307.exe: CMakeFiles/Project3307.dir/linkLibs.rsp
 Project3307.exe: CMakeFiles/Project3307.dir/objects1.rsp
 Project3307.exe: CMakeFiles/Project3307.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Project3307.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Project3307.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Project3307.dir\link.txt --verbose=$(VERBOSE)
-	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Alexf/.vcpkg-clion/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Alexf/Desktop/3307Projcet/3307/cmake-build-debug/Project3307.exe -installedDir C:/Users/Alexf/.vcpkg-clion/vcpkg/installed/x64-mingw-dynamic/debug/bin -OutVariable out
 
 # Rule to build all files generated by this target.
 CMakeFiles/Project3307.dir/build: Project3307.exe
@@ -114,6 +113,6 @@ CMakeFiles/Project3307.dir/clean:
 .PHONY : CMakeFiles/Project3307.dir/clean
 
 CMakeFiles/Project3307.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Alexf\Desktop\3307Projcet\3307 C:\Users\Alexf\Desktop\3307Projcet\3307 C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug C:\Users\Alexf\Desktop\3307Projcet\3307\cmake-build-debug\CMakeFiles\Project3307.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307 C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307 C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug C:\Users\Alexf\Desktop\Course-Enrollment-Tool\3307\cmake-build-debug\CMakeFiles\Project3307.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/Project3307.dir/depend
 
