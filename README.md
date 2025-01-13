@@ -6,7 +6,7 @@ The Course Enrollment System is a comprehensive C++ application with a GUI, desi
 ---
 ## **Preview**
 * Login
-
+![preview1.png](3307%2Fassets%2Fpreview1.png)
 ---
 ## **Features**
 - **Student Features**:
